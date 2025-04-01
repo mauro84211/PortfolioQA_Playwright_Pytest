@@ -75,5 +75,4 @@ This project reflects my commitment to **reliable, maintainable, and scalable** 
 ## 📬 Contact
 Let's connect!  
 📧 **mauro211@gmail.com**  
-📞 **+53 54364226**  
 🔗 **[LinkedIn](https://www.linkedin.com/in/mauricecabrejas/)**  
